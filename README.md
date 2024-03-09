@@ -26,8 +26,7 @@
 
 **[Hello Rails React]**
 
-This application utilizes Ruby on Rails as the backend and React as the frontend. The exchange of information between the two sides is facilitated through an API. 
-[This is the link of the backend application](https://github.com/thasipablo/hello-rails-back-end)
+This react application fetches data(greetings) from this [backend application](https://github.com/thasipablo/hello-rails-back-end) and displays them on a page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
